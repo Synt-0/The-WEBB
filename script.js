@@ -99,7 +99,7 @@ const milestoneData = [
   {
     title: "Webb Uncovers Possible Hidden Black Hole in Nearby Spiral Galaxy M83",
     text: "Webb provides a fresh perspective on spiral galaxy Messier 83 revealing evidence that suggests the presence of a supermassive black hole. While massive spiral galaxies often host an active galactic nucleus astronomers have struggled for decades to confirm one in M83. Webbs Mid-Infrared Instrument revealed highly ionized neon gas which serves as a key signature of a growing black hole. The MIRI view also captures detailed tendrils of gas dust and stars across the galaxy. Star-forming regions woven through the spiral arms appear bright while organic carbon molecules show where new stars and exoplanets are actively taking shape.",
-    image: "/james weeb/2025/Webb uncovers possible hidden black hole in nearby spiral galaxy M83.jpg"
+    image: "/james weeb/2025/Webb uncovers possible hidden black hole in nearby spiral galaxy M83.png"
   },
 
   {
