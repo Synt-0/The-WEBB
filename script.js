@@ -377,7 +377,7 @@ pictureButton.addEventListener("click", async () => {
 
         title.textContent = "The universe is temporarily unavailable";
         text.textContent =
-            "NASA's picture couldn't be loaded. Check your internet connection or try again later.";
+            "NASA's picture couldn't be loaded. It might be due to the API limit from NASA ";
     } finally {
         pictureButton.disabled = false;
     }
