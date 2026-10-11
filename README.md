@@ -31,6 +31,8 @@ also some code from codepen for stars .
 
 under License-MIT License
 
-##website link- comming soon 
+##website link- https://synt-0.github.io/The-WEBB/
+
+
 ##website preview - <img width="1918" height="957" alt="image" src="https://github.com/user-attachments/assets/f88cd981-d1f5-4c85-b94d-a5b9ab56303e" />
 
