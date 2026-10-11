@@ -36,3 +36,5 @@ under License-MIT License
 
 ##website preview - <img width="1918" height="957" alt="image" src="https://github.com/user-attachments/assets/f88cd981-d1f5-4c85-b94d-a5b9ab56303e" />
 
+As it is my first site i have used ai for helping mainly in java script dud to its complexity .
+
